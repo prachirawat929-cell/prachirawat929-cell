@@ -166,72 +166,15 @@ Building a foundation in computer science through academic learning, programming
 
 ---
 
-## 06. ACHIEVEMENTS
 
-<div align="center">
-
-| Recognition | Details |
-|:---|:---|
-| Technical Learning | Building foundational programming knowledge |
-| Project Development | Exploring AI-powered software concepts |
-| Hackathon Participation | Engaging in student innovation and problem-solving activities |
-| Continuous Learning | Exploring emerging technologies and software development |
-
-</div>
-
----
-
-## 07. CERTIFICATIONS
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Certifications%20To%20Be%20Added-6D28D9?style=flat-square&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certifications%20To%20Be%20Added-5B21B6?style=flat-square&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications%20To%20Be%20Added-4338CA?style=flat-square"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Certifications%20To%20Be%20Added-6D28D9?style=flat-square&logo=cisco&logoColor=white"/>
-
----
-
-## 08. CODING PROFILES
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile%20Coming%20Soon-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile%20Coming%20Soon-5B21B6?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile%20Coming%20Soon-4338CA?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile%20Coming%20Soon-7C3AED?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 ## 09. GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D0718&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=8B5CF6&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prachirawat929-cell&show_icons=true&hide_border=true&bg_color=0D0718&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=8B5CF6&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D0718&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prachirawat929-cell&hide_border=true&background=0D0718&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=9CA3AF"/>
 
 <br/><br/>
 
