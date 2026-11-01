@@ -271,32 +271,4 @@ Building a foundation in computer science through academic learning, programming
 
 ---
 
-## 13. CURRENT FOCUS
 
-```yaml
-currently:
-  learning:
-    - C Programming
-    - Python Fundamentals
-    - JavaScript
-    - Git and GitHub
-    - Software Development Fundamentals
-
-  building:
-    - AI-powered software concepts
-    - BuffetWise AI
-    - SmartSight AI
-
-  exploring:
-    - Artificial Intelligence
-    - Machine Learning
-    - Frontend Development
-    - Cybersecurity
-    - UI/UX Design
-    - Hackathons and Open Source
-
-  open_to:
-    - Collaborative Projects
-    - Hackathons
-    - Beginner-Friendly Open Source
-    - Technical Learning Opportunities
