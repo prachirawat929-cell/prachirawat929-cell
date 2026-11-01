@@ -47,8 +47,6 @@ My current interests include:
 - Software development and problem-solving.
 - Artificial intelligence
 - Frontend development and user interfaces.
-- Product thinking and technology innovation.
-- Hackathons, collaborative projects, and open-source development.
 - Exploring cybersecurity and emerging technologies.
 
 I believe in learning by building, understanding the fundamentals, and improving through consistent experimentation.
@@ -73,45 +71,6 @@ I believe in learning by building, understanding the fundamentals, and improving
 <img src="https://img.shields.io/badge/JavaScript-Learning-6D28D9?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
 
-### Frontend Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-Exploring-6D28D9?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-Exploring-5B21B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Learning-4338CA?style=flat-square&logo=javascript&logoColor=white"/>
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://img.shields.io/badge/Backend-Exploring-6D28D9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Databases-Learning-5B21B6?style=flat-square"/>
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://img.shields.io/badge/Git-Exploring-7C3AED?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-Using-4338CA?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-Editor-5B21B6?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-Design-6D28D9?style=flat-square&logo=canva&logoColor=white"/>
-</p>
-
----
-
-## 03. AI / ML EXPERTISE
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Artificial Intelligence | Exploring | Understanding AI applications and practical use cases |
-| Machine Learning | Beginner | Exploring predictive systems and core concepts |
-| AI Product Development | Exploring | Developing ideas for AI-powered solutions |
-| Data Analysis | Beginner | Learning data interpretation and problem-solving |
-| Predictive Analytics | Exploring | Interested in demand forecasting and decision support |
-| Computer Vision | Exploring | Understanding image-based detection applications |
-| Prompt Engineering | Beginner | Experimenting with AI-assisted development |
-
----
 
 ## 04. FEATURED PROJECTS
 
