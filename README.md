@@ -74,41 +74,6 @@ I believe in learning by building, understanding the fundamentals, and improving
 
 ## 04. FEATURED PROJECTS
 
-<details>
-<summary><b>01. BuffetWise AI — Intelligent Buffet Management</b></summary>
-
-### Project Overview
-
-An AI-powered software concept designed to help buffet restaurants reduce food waste through demand prediction and smarter food preparation.
-
-The system uses customer count and historical demand information to estimate initial food preparation quantities. During service, updated demand information helps recommend how much food should be prepared for the next refill.
-
-### Core Features
-
-- Customer-based initial food demand prediction.
-- Dish-wise preparation recommendations.
-- Live demand monitoring through staff updates.
-- Recommended refill quantities.
-- Food waste reduction and operational insights.
-
-### Project Details
-
-| Parameter | Details |
-|:---|:---|
-| Stack | AI/ML concepts, software development |
-| Scale | Buffet restaurant use case |
-| Performance | To be evaluated through testing |
-| Security | Planned data access controls |
-| Impact | Reduced food waste and improved kitchen planning |
-| Repository | To be published |
-
-### Engineering Approach
-
-The initial version focuses on a software-first approach without requiring cameras or additional hardware. The goal is to create a practical decision-support system that assists kitchen staff rather than replacing their judgment.
-
-**Status:** Concept development and prototyping.
-
-</details>
 
 <details>
 <summary><b>02. SmartSight AI — Assistive Navigation Concept</b></summary>
